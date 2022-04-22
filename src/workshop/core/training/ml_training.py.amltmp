@@ -28,7 +28,7 @@ def parse_args():
     # parse args
     args = parser.parse_args()
 
-    # return args
+    # return args 
     return args
 
 def createClassModel(algo_name, catg, nums):
